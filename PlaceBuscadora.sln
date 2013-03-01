@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlaceBuscadora", "PlaceBuscadora\PlaceBuscadora.csproj", "{734C3910-64B3-4C94-94FC-C73AE67BF602}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlaceBuscadora.Tests", "PlaceBuscadora.Tests\PlaceBuscadora.Tests.csproj", "{F551F7BF-5814-4957-B40A-3B2AC9A6AA83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{734C3910-64B3-4C94-94FC-C73AE67BF602}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{734C3910-64B3-4C94-94FC-C73AE67BF602}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{734C3910-64B3-4C94-94FC-C73AE67BF602}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{734C3910-64B3-4C94-94FC-C73AE67BF602}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F551F7BF-5814-4957-B40A-3B2AC9A6AA83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F551F7BF-5814-4957-B40A-3B2AC9A6AA83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F551F7BF-5814-4957-B40A-3B2AC9A6AA83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F551F7BF-5814-4957-B40A-3B2AC9A6AA83}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
