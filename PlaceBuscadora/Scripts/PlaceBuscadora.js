@@ -1,3 +1,5 @@
 ﻿$(document).ready(function () {
-    alert("document ready");
+    $('.search-container input').keyup(function () {
+        $('.result').css("margin-top", "300px");
+    });
 });
